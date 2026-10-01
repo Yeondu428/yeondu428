@@ -90,12 +90,6 @@
 
 <br/>
 
-## Android
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-
-<br/>
 
 ## DevOps & Cloud
 
