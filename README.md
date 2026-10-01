@@ -160,13 +160,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![Yeondu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeondu428&show_icons=true&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeondu428&layout=compact&hide_border=true)
-
-<br/>
 
 ## 🔥 GitHub Streak
 
