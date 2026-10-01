@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yeondu
+# 👋 Hi, I'm YeonJU Shin
 
 ### Product-minded Software Engineer
 
